@@ -1,10 +1,10 @@
-# Web Development Project 6 - *Name of App Here*
+# Web Development Project 6 - *Data Dashboard Part 2*
 
-Submitted by: **Your Name Here**
+Submitted by: **Tal Assaf**
 
 This web app: **insert description**
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
