@@ -1,66 +1,68 @@
-# Coffee Explorer Dashboard
+# Web Development Project 6 - *Name of App Here*
 
-A modern React application for exploring and analyzing coffee data. This dashboard provides insights into various coffee types, their origins, and ingredients.
+Submitted by: **Your Name Here**
 
-## Features
+This web app: **insert description**
 
-- Interactive dashboard with coffee statistics
-- Real-time data visualization using Recharts
-- Responsive design with modern UI components
-- Data caching for improved performance
-- Detailed coffee information and analysis
+Time spent: **X** hours spent in total
 
-## Technologies Used
+## Required Features
 
-- React
-- React Router
-- Recharts for data visualization
-- Lucide React for icons
-- Modern CSS with styled components
+The following **required** functionality is completed:
 
-## Getting Started
+- [ ] **Clicking on an item in the list view displays more details about it**
+  - Clicking on an item in the dashboard list navigates to a detail view for that item
+  - Detail view includes extra information about the item not included in the dashboard view
+  - The same sidebar is displayed in detail view as in dashboard view
+  - *To ensure an accurate grade, your sidebar **must** be viewable when showing the details view in your recording.*
+- [ ] **Each detail view of an item has a direct, unique URL link to that item’s detail view page**
+  -  *To ensure an accurate grade, the URL/address bar of your web browser **must** be viewable in your recording.*
+- [ ] **The app includes at least two unique charts developed using the fetched data that tell an interesting story**
+  - At least two charts should be incorporated into the dashboard view of the site
+  - Each chart should describe a different aspect of the dataset
 
-1. Clone the repository:
 
-```bash
-git clone [your-repository-url]
-```
+The following **optional** features are implemented:
 
-2. Install dependencies:
+- [ ] The site’s customized dashboard contains more content that explains what is interesting about the data 
+  - e.g., an additional description, graph annotation, suggestion for which filters to use, or an additional page that explains more about the data
+- [ ] The site allows users to toggle between different data visualizations
+  - User should be able to use some mechanism to toggle between displaying and hiding visualizations 
 
-```bash
-npm install
-```
+  
+The following **additional** features are implemented:
 
-3. Start the development server:
+* [ ] List anything else that you added to improve the site's functionality!
 
-```bash
-npm start
-```
+## Video Walkthrough
 
-4. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Here's a walkthrough of implemented user stories:
 
-## Project Structure
+https://youtu.be/P69rOvrp2WU
 
-```
-src/
-  ├── components/
-  │   ├── Dashboard.jsx
-  │   ├── sidebar.jsx
-  │   └── ...
-  ├── App.jsx
-  ├── main.jsx
-  └── index.css
-```
+<!-- Replace this with whatever GIF tool you used! -->
+GIF created with ...  
+<!-- Recommended tools:
+[Kap](https://getkap.co/) for macOS
+[ScreenToGif](https://www.screentogif.com/) for Windows
+[peek](https://github.com/phw/peek) for Linux. -->
 
-## Contributing
+## Notes
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+Describe any challenges encountered while building the app.
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+    Copyright [yyyy] [name of copyright owner]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
